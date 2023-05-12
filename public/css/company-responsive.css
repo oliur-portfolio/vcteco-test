@@ -1,0 +1,464 @@
+/* Company Page Responsive Code */
+@media (max-width: 1649.98px) {
+}
+
+@media (max-width: 1549.98px) {
+    .team-collapse-area ul li,
+    .team-collapse-area ul li.six-last {
+        margin-right: 73px;
+    }
+
+    .team-collapse-area ul li.five-last {
+        margin-right: 0;
+    }
+
+    .team-collapse-area ul li .nav-link .team-profile {
+        max-width: 1300px;
+        width: 1300px;
+    }
+
+    .team-collapse-area ul li:nth-child(1) .nav-link .team-profile,
+    .team-collapse-area ul li:nth-child(6) .nav-link .team-profile {
+        left: -9px;
+    }
+
+    .team-collapse-area ul li:nth-child(2) .nav-link .team-profile,
+    .team-collapse-area ul li:nth-child(7) .nav-link .team-profile {
+        left: -286px;
+    }
+
+    .team-collapse-area ul li:nth-child(3) .nav-link .team-profile,
+    .team-collapse-area ul li:nth-child(8) .nav-link .team-profile {
+        left: -562px;
+    }
+
+    .team-collapse-area ul li:nth-child(4) .nav-link .team-profile,
+    .team-collapse-area ul li:nth-child(9) .nav-link .team-profile {
+        left: -835px;
+    }
+
+    .team-collapse-area ul li:nth-child(5) .nav-link .team-profile,
+    .team-collapse-area ul li:nth-child(10) .nav-link .team-profile {
+        left: -1112px;
+    }
+
+    .team-collapse-area .nav-tabs .nav-item.show .nav-link,
+    .nav-tabs .nav-link.active {
+        margin-bottom: 700px;
+    }
+}
+
+@media (max-width: 1399.98px) {
+    .team-collapse-area ul li,
+    .team-collapse-area ul li.six-last,
+    .team-collapse-area ul li.five-last {
+        margin-right: 105px;
+    }
+
+    .team-collapse-area ul li.four-last {
+        margin-right: 0;
+    }
+
+    .team-collapse-area ul li .nav-link .team-profile {
+        max-width: 1121px;
+        width: 1121px;
+    }
+
+    .team-collapse-area ul li:nth-child(1) .nav-link .team-profile,
+    .team-collapse-area ul li:nth-child(5) .nav-link .team-profile {
+        left: -9px;
+    }
+
+    .team-collapse-area ul li:nth-child(2) .nav-link .team-profile,
+    .team-collapse-area ul li:nth-child(6) .nav-link .team-profile {
+        left: -316px;
+    }
+
+    .team-collapse-area ul li:nth-child(3) .nav-link .team-profile,
+    .team-collapse-area ul li:nth-child(7) .nav-link .team-profile {
+        left: -623px;
+    }
+
+    .team-collapse-area ul li:nth-child(4) .nav-link .team-profile,
+    .team-collapse-area ul li:nth-child(8) .nav-link .team-profile {
+        left: -930px;
+    }
+
+    .team-collapse-area .nav-tabs .nav-item.show .nav-link,
+    .nav-tabs .nav-link.active {
+        margin-bottom: 780px;
+    }
+
+    .desktop-team-collapse {
+        display: none;
+    }
+
+    .mobile-team-collapse {
+        display: block;
+    }
+
+    .desktop-directors-collapse {
+        display: none;
+    }
+
+    .mobile-directors-collapse {
+        display: block;
+    }
+}
+
+@media (max-width: 1199.98px) {
+    .company-technology {
+        flex-direction: column;
+        padding-bottom: 110px;
+    }
+
+    .company-technology .single-tech-content h1 {
+        margin-bottom: 45px;
+    }
+
+    .team-collapse-area ul li,
+    .team-collapse-area ul li.five-last,
+    .team-collapse-area ul li.four-last {
+        margin-right: 164px;
+    }
+
+    .team-collapse-area ul li.three-last,
+    .team-collapse-area ul li.six-last {
+        margin-right: 0;
+    }
+
+    .team-collapse-area ul li .nav-link .team-profile {
+        max-width: 954px;
+        width: 954px;
+    }
+
+    .team-collapse-area ul li:nth-child(1) .nav-link .team-profile,
+    .team-collapse-area ul li:nth-child(4) .nav-link .team-profile,
+    .team-collapse-area ul li:nth-child(7) .nav-link .team-profile,
+    .team-collapse-area ul li:nth-child(10) .nav-link .team-profile {
+        left: -9px;
+    }
+
+    .team-collapse-area ul li:nth-child(2) .nav-link .team-profile,
+    .team-collapse-area ul li:nth-child(5) .nav-link .team-profile,
+    .team-collapse-area ul li:nth-child(8) .nav-link .team-profile,
+    .team-collapse-area ul li:nth-child(11) .nav-link .team-profile {
+        left: -375px;
+    }
+
+    .team-collapse-area ul li:nth-child(3) .nav-link .team-profile,
+    .team-collapse-area ul li:nth-child(6) .nav-link .team-profile,
+    .team-collapse-area ul li:nth-child(9) .nav-link .team-profile,
+    .team-collapse-area ul li:nth-child(12) .nav-link .team-profile {
+        left: -742px;
+    }
+
+    .team-collapse-area .nav-tabs .nav-item.show .nav-link,
+    .nav-tabs .nav-link.active {
+        margin-bottom: 870px;
+    }
+
+    .executive-team .team-collapse-area .new-gap .single-tech-main-img {
+        width: 220px;
+        height: 220px;
+        top: 10px;
+    }
+
+    .executive-team .team-collapse-area .new-gap {
+        width: 200px;
+        height: 220px;
+    }
+}
+
+@media (max-width: 991.98px) {
+    .company-benefits .benefits-left-content h3 span {
+        display: inline-block;
+    }
+
+    .mobile-blockquote {
+        display: block;
+        max-width: 500px;
+        width: 100%;
+        margin: 0 auto;
+        margin-top: 40px;
+    }
+
+    .benefits-blockquote p {
+        font-size: 21px !important;
+        color: #fff;
+        font-style: italic;
+    }
+
+
+
+
+    .benefits-blockquote h5 {
+        color: #fff;
+        font-size: 21px;
+        font-weight: 700;
+        font-style: italic;
+    }
+
+    .team-collapse-area ul li,
+    .team-collapse-area ul li.five-last,
+    .team-collapse-area ul li.four-last {
+        margin-right: 109px;
+    }
+
+    .team-collapse-area ul li.three-last,
+    .team-collapse-area ul li.six-last {
+        margin-right: 0;
+    }
+
+    .team-collapse-area ul li .nav-link .team-profile {
+        max-width: 722px;
+        width: 722px;
+    }
+
+    .team-collapse-area ul li:nth-child(1) .nav-link .team-profile,
+    .team-collapse-area ul li:nth-child(4) .nav-link .team-profile,
+    .team-collapse-area ul li:nth-child(7) .nav-link .team-profile,
+    .team-collapse-area ul li:nth-child(10) .nav-link .team-profile {
+        left: -9px;
+    }
+
+    .team-collapse-area ul li:nth-child(2) .nav-link .team-profile,
+    .team-collapse-area ul li:nth-child(5) .nav-link .team-profile,
+    .team-collapse-area ul li:nth-child(8) .nav-link .team-profile,
+    .team-collapse-area ul li:nth-child(11) .nav-link .team-profile {
+        left: -281px;
+    }
+
+    .team-collapse-area ul li:nth-child(3) .nav-link .team-profile,
+    .team-collapse-area ul li:nth-child(6) .nav-link .team-profile,
+    .team-collapse-area ul li:nth-child(9) .nav-link .team-profile,
+    .team-collapse-area ul li:nth-child(12) .nav-link .team-profile {
+        left: -552px;
+    }
+
+    .team-collapse-area .nav-tabs .nav-item.show .nav-link,
+    .nav-tabs .nav-link.active {
+        margin-bottom: 980px;
+    }
+
+    .executive-team .team-collapse-area .new-gap .single-tech-main-img {
+        width: 180px;
+        height: 180px;
+        top: 10px;
+    }
+
+    .executive-team .team-collapse-area .new-gap {
+        width: 160px;
+        height: 180px;
+    }
+
+    .team-overlay-title {
+        padding: 0 10px;
+        padding-bottom: 15px;
+    }
+
+    .team-profile h5 {
+        font-size: 15px;
+        line-height: 22px;
+    }
+
+    .team-profile p {
+        font-size: 15px;
+    }
+
+    .team-overlay-title h5 {
+        font-size: 15px;
+    }
+
+    .team-overlay-title p {
+        font-size: 15px;
+    }
+
+    .bio-cross svg {
+        width: 20px;
+        height: 20px;
+    }
+
+    .team-collapse-area .nav-link.active::before,
+    .team-collapse-area .nav-link.active:hover::before {
+        left: 50%;
+        transform: translateX(-50%);
+    }
+}
+
+@media (max-width: 767.98px) {
+    .team-collapse-area ul li,
+    .team-collapse-area ul li.five-last,
+    .team-collapse-area ul li.three-last {
+        margin-right: 140px;
+    }
+
+    .team-collapse-area ul li.six-last,
+    .team-collapse-area ul li.two-last,
+    .team-collapse-area ul li.four-last {
+        margin-right: 0;
+    }
+
+    .team-collapse-area ul li .nav-link .team-profile {
+        max-width: 543px;
+        width: 543px;
+    }
+
+    .team-collapse-area ul li:nth-child(1) .nav-link .team-profile,
+    .team-collapse-area ul li:nth-child(3) .nav-link .team-profile,
+    .team-collapse-area ul li:nth-child(5) .nav-link .team-profile,
+    .team-collapse-area ul li:nth-child(7) .nav-link .team-profile,
+    .team-collapse-area ul li:nth-child(9) .nav-link .team-profile {
+        left: -9px;
+    }
+
+    .team-collapse-area ul li:nth-child(2) .nav-link .team-profile,
+    .team-collapse-area ul li:nth-child(4) .nav-link .team-profile,
+    .team-collapse-area ul li:nth-child(6) .nav-link .team-profile,
+    .team-collapse-area ul li:nth-child(8) .nav-link .team-profile,
+    .team-collapse-area ul li:nth-child(10) .nav-link .team-profile {
+        left: -342px;
+    }
+
+    .team-collapse-area .nav-tabs .nav-item.show .nav-link,
+    .nav-tabs .nav-link.active {
+        margin-bottom: 1270px;
+    }
+
+    .executive-team .team-collapse-area .new-gap .single-tech-main-img {
+        width: 210px;
+        height: 210px;
+        top: 10px;
+    }
+
+    .executive-team .team-collapse-area .new-gap {
+        width: 190px;
+        height: 210px;
+    }
+}
+
+@media (max-width: 575.98px) {
+    .company-technology {
+        padding-bottom: 90px;
+    }
+
+    .company-technology .single-tech-content h1 {
+        margin-bottom: 15px;
+    }
+
+    .company-benefits .benefits-left-content p {
+        font-size: 15px;
+    }
+
+    .mobile-blockquote {
+        margin-top: 35px;
+    }
+
+    .benefits-blockquote p {
+        font-size: 18px !important;
+        line-height: 24px;
+    }
+
+    .benefits-blockquote h5 {
+        font-size: 18px;
+    }
+
+    .team-collapse-area ul li,
+    .team-collapse-area ul li.five-last,
+    .team-collapse-area ul li.three-last {
+        margin-right: 56px;
+    }
+
+    .team-collapse-area ul li.six-last,
+    .team-collapse-area ul li.two-last,
+    .team-collapse-area ul li.four-last {
+        margin-right: 0;
+    }
+
+    .team-collapse-area ul li .nav-link .team-profile {
+        max-width: 338px;
+        width: 338px;
+    }
+
+    .team-collapse-area ul li:nth-child(1) .nav-link .team-profile,
+    .team-collapse-area ul li:nth-child(3) .nav-link .team-profile,
+    .team-collapse-area ul li:nth-child(5) .nav-link .team-profile,
+    .team-collapse-area ul li:nth-child(7) .nav-link .team-profile,
+    .team-collapse-area ul li:nth-child(9) .nav-link .team-profile {
+        left: -30px;
+    }
+
+    .team-collapse-area ul li:nth-child(2) .nav-link .team-profile,
+    .team-collapse-area ul li:nth-child(4) .nav-link .team-profile,
+    .team-collapse-area ul li:nth-child(6) .nav-link .team-profile,
+    .team-collapse-area ul li:nth-child(8) .nav-link .team-profile,
+    .team-collapse-area ul li:nth-child(10) .nav-link .team-profile {
+        left: -198px;
+    }
+
+    .team-collapse-area .nav-tabs .nav-item.show .nav-link,
+    .nav-tabs .nav-link.active {
+        margin-bottom: 1530px;
+    }
+
+    .executive-team .team-collapse-area .new-gap .single-tech-main-img {
+        width: 130px;
+        height: 130px;
+        top: 10px;
+    }
+
+    .executive-team .team-collapse-area .new-gap {
+        width: 110px;
+        height: 130px;
+    }
+
+    .executive-team .team-collapse-area {
+        padding: 0 10px;
+    }
+
+    .bio-cross {
+        top: -3px;
+        right: 0;
+    }
+
+    .bio-cross svg {
+        width: 15px;
+        height: 15px;
+    }
+
+    .team-overlay-title {
+        padding-bottom: 12px;
+    }
+
+    .team-collapse-area ul li .nav-link .team-profile {
+        padding: 23px 20px 27px 18px;
+        top: 136%;
+    }
+
+    .team-profile p {
+        line-height: 22px;
+    }
+
+    .executive-team {
+        padding-top: 60px;
+    }
+
+    .team-collapse-area {
+        margin-top: 30px;
+    }
+
+    .team-collapse-area ul li {
+        margin-bottom: 33px;
+    }
+
+    .directors-team {
+        padding-top: 60px;
+        padding-bottom: 40px;
+    }
+
+    .section-title p {
+        font-size: 15px;
+        line-height: 22px;
+    }
+}
+/* Company Page Responsive Code */

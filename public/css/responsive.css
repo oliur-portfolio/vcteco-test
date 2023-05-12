@@ -1,0 +1,1087 @@
+/* For Remove Home Page Image Streching */
+@media (min-width: 2000.98px) {
+    .single-box-image {
+        width: 960px;
+        left: -2px;
+    }
+
+    .single-box-right-image {
+        width: 960px;
+        left: auto;
+        right: 0;
+    }
+}
+
+
+@media (min-width: 1800px) {
+    .single-tech-image {
+        width: 50%;
+    }
+}
+
+
+
+@media (max-width: 1649.98px) {
+    .single-tech-box {
+        width: 800px;
+        height: 500px;
+    }
+
+    .single-tech-main-img {
+        width: 800px;
+        height: 500px;
+    }
+
+    .new-gap {
+        width: 450px;
+        height: 340px;
+    }
+}
+
+@media (max-width: 1549.98px) {
+    .box-text {
+        width: 37vw;
+    }
+
+    .single-box-inner {
+        padding-bottom: 40px;
+    }
+
+    .single-box-image {
+        top: -55px;
+    }
+
+    .banner-area {
+        padding-top: 30px;
+    }
+
+    .single-image {
+        max-height: 38vh;
+    }
+
+    .single-tech-box {
+        width: 600px;
+        height: 450px;
+    }
+
+    .single-tech-main-img {
+        width: 600px;
+        height: 450px;
+    }
+
+    .new-gap {
+        width: 400px;
+        height: 340px;
+    }
+
+    .new-gap .single-tech-main-img {
+        width: 400px;
+        height: 340px;
+    }
+
+    .single-applicable-tab {
+        max-width: 880px;
+    }
+}
+
+@media (max-width: 1399.98px) {
+    .box-text {
+        width: 35vw;
+    }
+
+    .single-box-image {
+        height: 600px;
+    }
+
+    .banner-content h1,
+    .banner-content h1 span {
+        font-size: 56px;
+    }
+
+    .banner-content p {
+        font-size: 26px;
+    }
+
+    .fuel-text p,
+    .lbs-text p {
+        line-height: 24px;
+        font-size: 16px;
+    }
+
+    .countup-number p {
+        font-size: 24px;
+    }
+
+    .fuel-lbs-area {
+        max-width: 850px;
+    }
+
+    .single-tech-content {
+        max-width: 500px;
+    }
+
+    .single-tech-content h1 {
+        font-size: 56px;
+    }
+
+    .single-tech-content h1 .heading-line1::before {
+        font-size: 46px;
+    }
+
+    .right-benefits {
+        margin-top: 118px;
+    }
+
+    .new-gap {
+        width: 340px;
+        height: 250px;
+    }
+
+    .new-gap .single-tech-main-img {
+        width: 340px;
+        height: 250px;
+    }
+
+    .benefits-left-content h3 {
+        font-size: 36px;
+    }
+
+    .development-text-area h3 {
+        font-size: 36px;
+    }
+
+    .applicable-aircraft .section-title h3 {
+        font-size: 36px;
+    }
+
+    .single-applicable-tab {
+        max-width: 700px;
+    }
+}
+
+@media (max-width: 1199.98px) {
+    .box-text {
+        width: 38vw;
+    }
+
+    .single-box-image {
+        height: 650px;
+    }
+
+    .contact-us {
+        padding: 56px 0;
+    }
+
+    .contact-content {
+        flex-direction: column;
+    }
+
+    .contact-btn a {
+        margin-top: 30px;
+        margin-right: 0;
+    }
+
+    .mbl-img-hide {
+        display: none;
+    }
+
+    .single-tech-content h1 {
+        margin-bottom: 570px;
+        font-size: 52px;
+    }
+
+    .single-tech-content {
+        max-width: 100%;
+    }
+
+    .single-tech-image {
+        width: 94%;
+        top: 270px;
+        right: auto;
+        left: 50%;
+        transform: translateX(-50%);
+        -webkit-transform: translateX(-50%);
+        -moz-transform: translateX(-50%);
+        -ms-transform: translateX(-50%);
+        -o-transform: translateX(-50%);
+    }
+
+    .single-tech-main-img {
+        width: 110%;
+        right: auto;
+        left: 50%;
+        transform: translateX(-50%);
+        -webkit-transform: translateX(-50%);
+        -moz-transform: translateX(-50%);
+        -ms-transform: translateX(-50%);
+        -o-transform: translateX(-50%);
+    }
+
+    .single-tech-box {
+        width: 100%;
+    }
+
+    .desktop-dev-img {
+        display: none;
+    }
+
+    .development-img-container {
+        padding-left: 0;
+    }
+
+    .mobile-dev-img .carousel {
+        width: 100%;
+    }
+
+    .new-gap {
+        width: 94%;
+        height: 450px;
+        margin: 0 auto;
+    }
+
+    .new-gap .single-tech-main-img {
+        width: 110%;
+        height: 450px;
+        top: -15px;
+        right: 10px;
+    }
+
+    .carousel-indicators {
+        bottom: -50px;
+    }
+
+    .carousel-indicators [data-bs-target] {
+        width: 30px;
+        height: 6px;
+        background-color: #1c4a7b;
+        opacity: 1;
+    }
+
+    .carousel-indicators .active {
+        background-color: #4f9507;
+    }
+
+    .mobile-nav {
+        position: relative;
+    }
+
+    .single-applicable-tab {
+        max-width: 100%;
+    }
+
+    #v-pills-boeing {
+        position: absolute;
+        top: 120px;
+        left: 0;
+    }
+
+    #v-pills-c130 {
+        position: absolute;
+        top: 220px;
+        left: 0;
+    }
+
+    #v-pills-globemaster {
+        position: absolute;
+        top: 320px;
+        left: 0;
+    }
+
+    .applicable-tab-area .nav-pills .nav-link.active {
+        margin-bottom: 850px;
+    }
+
+    .applicable-tab-area .nav-pills .nav-link.active:last-child {
+        margin-bottom: 780px;
+    }
+
+    #v-pills-boeing.tab-pane.fade.active.show::before,
+    #v-pills-c130.tab-pane.fade.active.show::before,
+    #v-pills-globemaster.tab-pane.fade.active.show::before {
+        top: -28px;
+        left: 25px;
+        transform: rotate(90deg);
+    }
+
+    .mobile-dev-img {
+        display: block;
+    }
+}
+
+@media (max-width: 991.98px) {
+    .show-dropdown .dropdown-container {
+        opacity: 1;
+        display: block;
+        position: initial;
+        width: auto;
+        left: 0;
+        transform: translateX(-0%);
+        -webkit-transform: translateX(-0%);
+        -moz-transform: translateX(-0%);
+        -ms-transform: translateX(-0%);
+        -o-transform: translateX(-0%);
+        padding: 0;
+        box-shadow: 0px 3px 15px rgba(34, 32, 32, 0);
+    }
+
+    .show-dropdown .dropdown-container .left-dropdown {
+        padding-left: 40px;
+    }
+
+    .desktop-menu {
+        display: none;
+    }
+
+    .mobile-menu {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        padding-top: 120px;
+        background: #fff;
+        z-index: 99;
+        overflow: hidden;
+        transition: all 0.2s linear;
+        -webkit-transition: all 0.2s linear;
+        -moz-transition: all 0.2s linear;
+        -ms-transition: all 0.2s linear;
+        -o-transition: all 0.2s linear;
+    }
+
+    .menu-visible {
+        display: block;
+    }
+
+    main.main-hidden {
+        overflow: auto;
+        height: 0px;
+    }
+
+    footer.menu-overflow1 {
+        display: none;
+    }
+
+    .banner-content h1 span {
+        display: inline;
+    }
+
+    .fuel-lbs-area {
+        max-width: 500px;
+        padding-right: 7px;
+    }
+
+    .fuel-area,
+    .lbs-area {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .fuel-text p,
+    .lbs-text p {
+        margin-left: 0;
+        margin-top: 6px;
+    }
+
+    .image-down-icon {
+        width: 20px;
+        bottom: 40px;
+    }
+
+    .section-title h3 {
+        max-width: 500px;
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .single-box-image {
+        height: auto;
+        width: 100%;
+        top: -95%;
+    }
+
+    .box-text {
+        width: 100%;
+    }
+
+    .single-box-text {
+        margin-top: 550px;
+    }
+
+    .center-details-content p {
+        max-width: 600px;
+    }
+
+    .contact-text p {
+        max-width: 600px;
+    }
+
+    .nav-cover {
+        position: relative;
+    }
+
+    [type="button"]:focus-visible,
+    [type="reset"]:focus-visible,
+    [type="submit"]:focus-visible,
+    button:focus-visible {
+        outline: 0px;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: 0 0 0 0;
+    }
+
+    .navbar-nav .nav-link {
+        display: inline-block;
+    }
+
+    .navbar-nav li {
+        margin-bottom: 30px;
+    }
+
+    .navbar-nav li:first-child {
+        margin-top: 30px;
+    }
+
+    .navbar-nav li:last-child {
+        margin-bottom: 0;
+    }
+
+    .countup-number p {
+        width: 230px;
+    }
+
+    .single-tech-content h1 {
+        font-size: 48px;
+        margin-bottom: 560px;
+    }
+
+    .single-tech-content h1 .heading-line1::before {
+        font-size: 40px;
+        top: 11px;
+    }
+
+    .single-tech-content h1 span.heading-line2 {
+        margin-top: 10px;
+    }
+
+    .single-tech-image {
+        top: 250px;
+    }
+
+    .single-tech-content p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .benefits-left-content,
+    .right-benefits {
+        max-width: 100%;
+    }
+
+    .benefits-left-content h3 {
+        font-size: 34px;
+        line-height: 44px;
+    }
+
+    .benefits-left-content h3 span {
+        display: block;
+    }
+
+    .benefits-content {
+        flex-direction: column;
+    }
+
+    .right-benefits {
+        margin-left: 0;
+        margin-top: 32px;
+    }
+
+    .development-text-area h3 {
+        font-size: 34px;
+        line-height: 44px;
+    }
+
+    .development-text-area p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .applicable-aircraft .section-title h3 {
+        font-size: 34px;
+        line-height: 44px;
+        margin-bottom: 0;
+    }
+
+    .applicable-description h5 {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .applicable-description p {
+        font-size: 16px;
+    }
+
+    .applicable-tab-area .nav-pills .nav-link.active {
+        margin-bottom: 770px;
+    }
+
+    .applicable-tab-area .nav-pills .nav-link.active:last-child {
+        margin-bottom: 680px;
+    }
+
+    .applicable-tab-area .nav-pills .nav-link {
+        font-size: 28px;
+        margin-bottom: 50px;
+    }
+
+    .applicable-name h6 {
+        font-size: 16px;
+        line-height: 24px;
+    }
+
+    .applicable-value p {
+        font-size: 16px;
+    }
+
+    .applicable-item-container {
+        padding: 14px 0;
+        padding-left: 40px;
+    }
+
+    #v-pills-boeing {
+        position: absolute;
+        top: 120px;
+        left: 0;
+    }
+
+    #v-pills-c130 {
+        position: absolute;
+        top: 200px;
+        left: 0;
+    }
+
+    #v-pills-globemaster {
+        position: absolute;
+        top: 290px;
+        left: 0;
+    }
+}
+
+@media (max-width: 767.98px) {
+    
+	body {background-color:#FFFFFF !important;}
+	
+	p {
+  		text-align: left;
+	}
+	
+	.single-box-image {
+        top: -55%;
+    }
+
+    .single-box-text {
+        margin-top: 430px;
+    }
+
+    .navbar-brand {
+        width: 130px;
+        margin-top: 18px;
+    }
+
+    .contact-text p {
+        max-width: 90%;
+    }
+
+    .single-tech-content h1 {
+        font-size: 36px;
+        margin-bottom: 440px;
+    }
+
+    .single-tech-content h1 .heading-line1::before {
+        font-size: 30px;
+        top: 7px;
+        right: -18px;
+    }
+
+    .single-tech-image {
+        top: 220px;
+    }
+
+    .single-tech-box {
+        height: 350px;
+    }
+
+    .single-tech-main-img {
+        height: 350px;
+    }
+
+    .single-tech-content p {
+        font-size: 15px;
+    }
+
+    .benefits-left-content h3 {
+        font-size: 26px;
+        line-height: 32px;
+    }
+
+    .benefit-list li {
+        align-items: baseline;
+        margin-bottom: 20px;
+    }
+
+    .right-benefits {
+        margin-top: 20px;
+    }
+
+    .benefit-list li h5 {
+        font-size: 15px;
+        line-height: 20px;
+    }
+
+    .development-text-area h3 {
+        font-size: 26px;
+        line-height: 32px;
+    }
+
+    .development-text-area h5 {
+        font-size: 15px;
+    }
+
+    .development-text-area p {
+        font-size: 15px;
+    }
+
+    .new-gap {
+        height: 350px;
+    }
+
+    .new-gap .single-tech-main-img {
+        height: 350px;
+    }
+
+    .applicable-aircraft .section-title h3 {
+        font-size: 26px;
+        line-height: 32px;
+        max-width: 300px;
+    }
+
+    .applicable-tab-area .nav-pills .nav-link {
+        font-size: 24px;
+    }
+
+    .applicable-description p {
+        font-size: 15px;
+    }
+
+    .applicable-description h5 {
+        font-size: 15px;
+    }
+
+    .applicable-name h6 {
+        font-size: 15px;
+        line-height: 20px;
+    }
+
+    .bg-white-applicable {
+        padding: 6px 0;
+    }
+
+    .applicable-item-container {
+        flex-direction: column;
+        padding-left: 30px;
+    }
+
+    #v-pills-boeing {
+        position: absolute;
+        top: 100px;
+        left: 0;
+    }
+
+    #v-pills-c130 {
+        position: absolute;
+        top: 180px;
+        left: 0;
+    }
+
+    #v-pills-globemaster {
+        position: absolute;
+        top: 270px;
+        left: 0;
+    }
+
+    .applicable-tab-area .nav-pills .nav-link.active {
+        margin-bottom: 840px;
+    }
+
+    .applicable-tab-area .nav-pills .nav-link.active:last-child {
+        margin-bottom: 780px;
+    }
+}
+
+@media (max-width: 575.98px) {
+    .container {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
+    .navbar-toggler {
+        right: 30px;
+    }
+
+     .banner-area {
+      /*  padding-top: 50px; */
+		padding-top: 0px;
+    }
+
+	#homeblock {
+        min-height: 340px;
+	}
+
+    .banner-content h1,
+    .banner-content h1 span {
+        font-size: 28px;
+        line-height: 36px;
+    }
+
+    .banner-content p {
+        font-size: 18px;
+        line-height: 28px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    .banner-content p span {
+        display: block;
+    }
+
+    .countup-number p {
+        font-size: 19px;
+        width: 138px;
+        letter-spacing: 0;
+        margin: 0;
+    }
+
+    .fuel-text p,
+    .lbs-text p {
+        font-size: 13px;
+        line-height: 16px;
+        margin: 0;
+        margin-top: 6px;
+    }
+
+    .image-down-icon {
+        width: 14px;
+    }
+
+    .single-image {
+        max-height: 30vh;
+    }
+
+    .single-box-image {
+        top: -30%;
+        height: 200px;
+    }
+
+
+	#home-right {
+        top: -24%;
+        height: 200px;
+    }
+	
+	#home-left-bot {
+        top: -39%;
+        height: 200px;
+    }
+	
+    .single-box-text {
+        margin-top: 180px;
+    }
+
+    .section-title h3 {
+        font-size: 24px;
+        max-width: 300px;
+    }
+
+    .box-text h5 {
+        font-size: 24px;
+        text-align: center;
+    }
+
+    .box-para-text p, .box-para-text li {
+        font-size: 15px;
+    }
+
+    .learn-btn a {
+        margin: 0 auto;
+        margin-top: 30px;
+    }
+
+    .single-box-text .container {
+        padding-left: 10px;
+        padding-right: 10px;
+		overflow:hidden;
+    }
+
+
+	#home-green {font-size: 15px;}
+
+	.box-right-text {margin-top: 30px;}
+	
+	#box-right-offset {margin-top:50px !important;}
+	
+    .single-box-inner {
+        padding-left: 17px;
+        padding-right: 23px;
+        padding-bottom: 30px;
+        padding-top: 30px;
+		margin-bottom: 20px;
+    }
+
+    .center-details-content h5 {
+        font-size: 24px;
+        line-height: 34px;
+    }
+
+    .center-details-content h5 span {
+        display: block;
+        font-weight: 700;
+    }
+
+    .center-details-content p {
+        font-size: 15px;
+        margin-bottom: 30px;
+        margin-top: 10px;
+    }
+
+    .center-details-content {
+        padding-top: 33px;
+        padding-bottom: 42px;
+    }
+
+    .contact-text p {
+        font-size: 15px;
+        margin-left: 0;
+    }
+
+    .contact-text p {
+        max-width: 100%;
+    }
+
+    .footer-area {
+        padding-top: 40px;
+    }
+
+    .footer-social-list {
+        margin-bottom: 20px;
+    }
+
+    .footer-social-list li {
+        width: 30px;
+        height: 30px;
+        margin-left: 12px;
+    }
+
+    .footer-social-list li a svg {
+        width: 16px;
+        margin-top: -3px;
+    }
+
+    .footer-content p {
+        font-size: 11px;
+    }
+
+    .single-technology-banner {
+        padding-top: 43px;
+    }
+
+    .single-tech-content h1 {
+        font-size: 30px;
+        margin-bottom: 310px;
+    }
+
+    .single-tech-content h1 .heading-line1::before {
+        font-size: 26px;
+        top: 7px;
+        right: -14px;
+    }
+
+    .single-tech-content h1 span.heading-line2 {
+        margin-top: 7px;
+    }
+
+    .single-tech-image {
+        top: 155px;
+    }
+
+    .single-tech-main-img {
+        height: 235px;
+        top: -15px;
+    }
+
+    .single-tech-box {
+        height: 235px;
+    }
+
+    .single-technology-banner {
+        padding-bottom: 8px;
+    }
+
+    .benefits-left-content h3 {
+        font-size: 24px;
+        line-height: 30px;
+    }
+
+    .additional-benefits {
+        padding-top: 35px;
+        padding-bottom: 50px;
+    }
+
+    .benefit-list li {
+        margin-bottom: 15px;
+    }
+
+    .benefit-list li span {
+        margin-right: 10px;
+    }
+
+    .development-text-area h3 {
+        font-size: 24px;
+        line-height: 30px;
+    }
+
+    .tech-development-area {
+        padding: 35px 0;
+        padding-bottom: 60px;
+    }
+
+    .development-text-area h3 {
+        margin-bottom: 15px;
+    }
+
+    .development-img-container {
+        margin-top: 36px;
+    }
+
+    .new-gap {
+        height: 240px;
+    }
+
+    .new-gap .single-tech-main-img {
+        height: 236px;
+    }
+
+    .applicable-aircraft .section-title h3 {
+        font-size: 24px;
+        line-height: 30px;
+    }
+
+    .applicable-tab-area .nav-pills .nav-link {
+        font-size: 21px;
+    }
+
+    .applicable-description p {
+        margin-bottom: 20px;
+    }
+
+    .tab-pane.fade.active.show::before {
+        width: 20px;
+        height: 28px;
+    }
+
+    .single-applicable-tab {
+        padding: 20px;
+        padding-right: 12px;
+    }
+
+    #v-pills-boeing.tab-pane.fade.active.show::before,
+    #v-pills-c130.tab-pane.fade.active.show::before,
+    #v-pills-globemaster.tab-pane.fade.active.show::before {
+        top: -22px;
+    }
+
+    .applicable-aircraft .container {
+        padding-left: 12px;
+        padding-right: 12px;
+    }
+
+    .applicable-tab-area .nav-pills .nav-link {
+        padding-left: 18px !important;
+    }
+
+    .applicable-tab-area .nav-pills .nav-link {
+        margin-bottom: 25px;
+    }
+
+    .applicable-tab-area .nav-pills .nav-link.active {
+        margin-bottom: 720px;
+    }
+
+    #v-pills-boeing {
+        position: absolute;
+        top: 90px;
+        left: 0;
+    }
+
+    #v-pills-c130 {
+        position: absolute;
+        top: 150px;
+        left: 0;
+    }
+	
+	 #v-pills-c130-tab.nav-link.active {
+        margin-bottom: 780px !important;
+    }
+	
+	
+
+    #v-pills-globemaster {
+        position: absolute;
+        top: 210px;
+        left: 0;
+    }
+
+    .applicable-tab-area .nav-pills .nav-link.active:last-child {
+        margin-bottom: 450px;
+    }
+
+    .applicable-name h6 {
+        line-height: 24px;
+    }
+
+    .applicable-value p {
+        font-weight: 700;
+        line-height: 24px;
+    }
+
+    .applicable-aircraft {
+        padding-bottom: 60px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 868px)  {
+	
+	#homeblock {
+        min-height: 500px;
+	}
+	
+	.single-box-text {
+    margin-top: 450px;
+}
+
+	#box-right-offset {margin-top:60px !important;}
+	
+	#box-left-offset {margin-top:60px !important;}
+	
+	#box-right-offset-bottom {margin-top:70px !important;}
+	
+	#home-right {margin-top:150px;}
+	
+}
+
+@media (min-width: 1120px) and (max-width: 1199px)  {
+	
+	#box-right-offset, #box-right-offset-bottom {padding-left:30px !important;}
+	#box-left-offset {padding-right:40px !important;}
+	
+}
